@@ -1,5 +1,5 @@
 # Statistics One, Assignment 1
-# Paul-Gabriel Müller
+# Paul-Gabriel M?ller
 # Read the data, plot and "describe"
 
 library(psych)
@@ -7,7 +7,7 @@ library(psych)
 testscores<-read.table("data/DAA.01.txt",header=TRUE)
 t<-testscores
 
-
+print("not sure if it is")
 describe(t)
 
 # read the columns into temporary vectors
